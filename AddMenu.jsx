@@ -9,6 +9,7 @@ import Swal from "sweetalert2";
 const AddMenu = () => {
   const { register, handleSubmit, reset } = useForm();
   const axiosPublic = useAxiosPublic();
+  
   const axiosSecure = useAxiosSecure();
 
   // image hosting key
