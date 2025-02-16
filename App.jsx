@@ -2,10 +2,6 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'https://github.com/PMaheshwarreddy/Foodie-we/blob/main/App.jsx#L9C0
-
-
-
-
 function App() {
   const [count, setCount] = useState(0)
 
